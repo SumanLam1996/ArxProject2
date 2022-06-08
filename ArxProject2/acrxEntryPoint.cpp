@@ -142,3 +142,4 @@ ACED_ARXCOMMAND_ENTRY_AUTO(CArxProject2App, ADSKMyGroup, MyPickFirst, MyPickFirs
 ACED_ARXCOMMAND_ENTRY_AUTO(CArxProject2App, ADSKMyGroup, MySessionCmd, MySessionCmdLocal, ACRX_CMD_MODAL | ACRX_CMD_SESSION, NULL)
 ACED_ADSSYMBOL_ENTRY_AUTO(CArxProject2App, MyLispFunction, false)
 
+//20220608
